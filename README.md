@@ -87,7 +87,7 @@
 
 ## 시연 영상
 
-![시연 영상](/img/sample.mp4)
+<video src="./img/sample.mp4"></video>
 
 ## 팀 구성
 
