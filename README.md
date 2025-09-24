@@ -13,7 +13,7 @@
 
 # TMOJI
 
-![간단한 시연 gif]()
+![간단한 시연 gif](/img/sample.gif)
 
 > 폰트 스타일을 유지하며 이미지를 번역하는 서비스
 
@@ -87,13 +87,7 @@
 
 ## 시연 영상
 
-[![부산대학교 정보컴퓨터공학부 소개](http://img.youtube.com/vi/zh_gQ_lmLqE/0.jpg)](https://www.youtube.com/watch?v=zh_gQ_lmLqE)
-
-- 이때 유튜브 영상 썸네일 URL은 유투브 영상 URL로부터 다음과 같이 얻을 수 있습니다.
-
-- `Youtube URL`: https://www.youtube.com/watch?v={동영상 ID}
-- `Youtube Thumbnail URL`: http://img.youtube.com/vi/{동영상 ID}/0.jpg
-- 예를 들어, https://www.youtube.com/watch?v=zh_gQ_lmLqE 라고 하면 썸네일의 주소는 http://img.youtube.com/vi/zh_gQ_lmLqE/0.jpg 이다.
+![시연 영상](/img/sample.mp4)
 
 ## 팀 구성
 
