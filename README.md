@@ -87,7 +87,7 @@
 
 ## 시연 영상
 
-<video src="./img/sample.mp4"></video>
+https://github.com/user-attachments/assets/9be9105e-f36d-44f2-8044-7fa6fed25c2b
 
 ## 팀 구성
 
