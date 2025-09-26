@@ -82,7 +82,7 @@ https://github.com/user-attachments/assets/9be9105e-f36d-44f2-8044-7fa6fed25c2b
 
 | 문경환 | 이동훈 | 이승재 |
 |:-------:|:-------:|:-------:|
-| <a href="https://github.com/drmoon-1st"><img width="100px" alt="문경환" src="https://avatars.githubusercontent.com/u/67881688?v=4" /></a> | <a href="https://github.com/bluelemon61"><img width="100px" alt="이동훈" src="https://avatars.githubusercontent.com/u/67902252?v=4" /></a> | <a href="https://github.com/Ea3214"><img width="100px" alt="이승재" src="https://avatars.githubusercontent.com/u/130594798?v=4" /></a> |
+| <a href="https://github.com/drmoon-1st"><img width="100px" alt="문경환" src="https://avatars.githubusercontent.com/u/67881688?v=4" /></a> | <a href="https://github.com/bluelemon61"><img width="100px" alt="이동훈" src="https://avatars.githubusercontent.com/u/67902252?v=4" /></a> | <a href="https://github.com/Ea3124"><img width="100px" alt="이승재" src="https://avatars.githubusercontent.com/u/130594798?v=4" /></a> |
 | drmoon@pusan.ac.kr | therqq13@pusan.ac.kr | leesj6717@pusan.ac.kr |
 | 실험 환경 구축 및 실험 <br/> OCR 모델 및 TextCtrl 실험 및 분석 <br/> 방법론 탐색 및 결과 분석 <br/> 보고서 및 관련 문서 작성 | 서비스 파트 담당 <br/> UI/UX 구상 <br/> API 명세 및 데이터베이스 ERD 작성 <br/> FE & BE & Infra 총괄 | 딥러닝 모델 분석 및 개발 <br/> OCR 모델과 TextCtrl 모델 실험 및 재학습 <br/> 데이터 생성 파이프라인 재구성 <br/> 모델 SSH 연결 관련 BE 파트 개발 |
 
