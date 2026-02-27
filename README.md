@@ -1,3 +1,7 @@
+### 👉 [English Readme](./README-EN.md) 👈
+
+---
+
 [![메인 이미지](/img/banner.png)](https://tmoji.org)
 
 # TMOJI
